@@ -5,16 +5,16 @@ import { BriefcaseIcon } from 'lucide-react';
 
 const timelineData = [
   {
+    title: 'React JS Intern',
+    company: 'Celebal Technologies',
+    date: '2025',
+    description: 'Developed scalable UI components and optimized performance using React.js, improving code reusability by 35%. Built a responsive e-commerce platform with product filtering and secure user authentication.',
+  },
+  {
     title: 'MERN Stack Developer Intern',
     company: 'Better Tomorrow',
     date: '2024',
-    description: 'Developed a secure chat application and an organ donation system using the MERN stack, enhancing data security and increasing user engagement. Successfully reduced data retrieval time by 20% and improved system efficiency.',
-  },
-  {
-    title: 'UI/UX Design Intern',
-    company: 'Codsoft',
-    date: '2024',
-    description: 'Designed and prototyped high-impact app pages using Figma, resulting in a 25% increase in user engagement; optimized user flows, streamlined interface elements, and enhanced usability and accessibility to deliver a seamless user experience.',
+    description: 'Developed a secure chat application and organ donation system, improving data retrieval time by 20% through optimized backend integration. Gained hands-on experience with JWT authentication, and real-time data handling.',
   },
   {
     title: 'Web Developer Intern',

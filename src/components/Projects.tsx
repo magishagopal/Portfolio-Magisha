@@ -5,40 +5,34 @@ import { Github, ExternalLink } from 'lucide-react';
 
 const projects = [
   {
+    title: 'FarmConnect',
+    description: 'A direct marketplace for farmers and consumers with an integrated AI model to predict price trends and optimize selling time for farmers.',
+    image: 'https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80',
+    tech: ['React.js', 'Node.js', 'MongoDB', 'ExpressJS', 'Python AI Model'],
+    github: 'https://github.com/magishagopal/produce-price-predict.git'
+  },
+  {
     title: 'Share Meal',
     description: 'A web-based food donation app using MERN stack, reducing food waste by 15% and increasing distribution efficiency by 25%. Enhanced donor-recipient matching rates by 25%.',
     image: 'https://images.unsplash.com/photo-1593113646773-028c64a8f1b8?auto=format&fit=crop&w=800&q=80',
-    tech: ['Express.js', 'React.js', 'MongoDB', 'Node.js', 'Tailwind CSS'],
+    tech: ['Express.js', 'React.js', 'MongoDB', 'Node.js'],
     github: 'https://github.com/magishagopal/ShareMeal.git'
   },
   {
     title: 'Chat Application',
     description: 'A real-time chat application with secure JWT authentication, resulting in a 20% increase in user retention through improved login and signup flows.',
     image: 'https://images.unsplash.com/photo-1611606063065-ee7946f0787a?auto=format&fit=crop&w=800&q=80',
-    tech: ['Express.js', 'React.js', 'MongoDB', 'Node.js', 'Tailwind CSS'],
+    tech: ['Express.js', 'React.js', 'MongoDB', 'Node.js'],
     github: 'https://github.com/magishagopal/Chat_Application.git'
-  },
-  {
-    title: 'Game On',
-    description: 'A sports event management system using JavaFX, which optimized event data handling efficiency by 25% and improved user experience by 30%.',
-    image: 'https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=800&q=80',
-    tech: ['JavaFX', 'Scene Builder', 'MySQL'],
-    github: 'https://github.com/yourusername/game-on'
   },
   {
     title: 'OrganDonate',
     description: 'A platform connecting organ donors and recipients, enhancing the donation process with improved matching algorithms and secure medical data handling.',
     image: 'https://plus.unsplash.com/premium_photo-1682310180665-40d421dea31f?q=80&w=2112&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    tech: ['React.js', 'Express.js', 'Node.js', 'MongoDB', 'Material UI'],
-    github: 'https://github.com/yourusername/organdonate'
+    tech: ['React.js', 'Express.js', 'Node.js', 'MongoDB'],
+    github: 'https://github.com/magishagopal/Organ-Donation-System.git'
   },
-  {
-    title: 'FarmConnect',
-    description: 'A direct marketplace for farmers and consumers with an integrated AI model to predict price trends and optimize selling time for farmers.',
-    image: 'https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80',
-    tech: ['React.js', 'Node.js', 'MongoDB', 'Tailwind CSS', 'Python AI Model'],
-    github: 'https://github.com/yourusername/farmconnect'
-  }
+  
 ];
 
 const Projects = () => {

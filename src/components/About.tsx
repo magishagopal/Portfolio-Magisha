@@ -26,7 +26,7 @@ const About = () => {
               I'm a Computer Science Engineering student with a passion for creating innovative digital solutions. My expertise spans Full Stack Development and UI/UX Design, allowing me to build comprehensive web applications that are both functional and user-friendly.
             </p>
             <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-              Currently pursuing my B.E in Computer Science Engineering at Sri Eshwar College of Engineering with a CGPA of 8.08, I combine academic excellence with practical experience through various internships and projects.
+              Currently pursuing my B.E in Computer Science Engineering at Sri Eshwar College of Engineering with a CGPA of 8.17, I combine academic excellence with practical experience through various internships and projects.
             </p>
           </div>
         </motion.div>

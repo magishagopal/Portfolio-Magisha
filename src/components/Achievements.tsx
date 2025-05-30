@@ -5,12 +5,12 @@ const Achievements = () => {
   const platforms = [
     {
       name: "LeetCode",
-      description: "240+ problems solved | Ranked 369,872 | 7+ contests | Max rating 1,382",
+      description: "200+ problems solved | Ranked 437,185 | 7+ contests | Max rating 1,376",
       link: "https://leetcode.com/u/Magisha_Gopal/",
     },
     {
       name: "CodeChef",
-      description: "180+ problems solved | Max Rating - 1039 | 6+ contests | 1 Star Code",
+      description: "160+ problems solved | Max Rating - 1039 | 6+ contests | 1 Star Code",
       link: "https://www.codechef.com/users/magisha",
     },
     {

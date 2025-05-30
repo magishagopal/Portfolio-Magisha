@@ -19,23 +19,22 @@ const item = {
 const categories = [
   {
     title: "Languages",
-    skills: ["C", "C++", "Java", "JavaScript", "Python", "HTML", "CSS"],
+    skills: ["C", "Java", "JavaScript", "Python", "HTML", "CSS"],
   },
   {
     title: "Libraries / Frameworks",
-    skills: ["ReactJS", "ExpressJS", "Tailwind CSS", "NodeJS", "Matplotlib"],
+    skills: ["ReactJS", "Numpy", "Scikit-learn", "Pandas", "Matplotlib"],
   },
   {
     title: "Tools / Platforms",
     skills: [
       "GitHub",
-      "Git",
+      "JIRA",
       "VS Code",
       "IntelliJ IDEA",
       "Figma",
-      "Linux",
+      "Power BI",
       "Canva",
-      "Adobe XD",
     ],
   },
   {

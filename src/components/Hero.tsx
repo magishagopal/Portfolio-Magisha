@@ -68,7 +68,7 @@ const Hero = () => {
               className="flex flex-wrap justify-center md:justify-start gap-4 mb-8"
             >
               <a 
-                href="https://drive.google.com/drive/folders/12tRoF0oqZClTLjHDyCgM4a9lrgKYmFZF?usp=sharing" 
+                href="https://drive.google.com/drive/folders/1zDc2ICn8VjnvW-uplyncHg0-1TFPAqGS?usp=sharing" 
                 download
                 className="flex items-center gap-2 px-6 py-3 bg-white text-purple-600 rounded-full hover:bg-purple-50 transition-colors duration-300 shadow-lg hover:shadow-xl"
               >
